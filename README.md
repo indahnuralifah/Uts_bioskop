@@ -1,2 +1,0 @@
-# Bioskop 
-# Uts_bioskop
